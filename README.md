@@ -1,5 +1,5 @@
 # 🍔 Burger Order App 🍔
-Application for study .net core - MVC/API
+Application for study
 
 # Specs
 - MySQL (MySQL Connector)
@@ -15,4 +15,3 @@ Application for study .net core - MVC/API
 
 # Contributors
 - Danilo Caetano [ @geeklopz ](https://github.com/geeklopz)
-- Lorena Santana [ @lobug5 ](https://github.com/lobug5)
