@@ -1,6 +1,3 @@
-# burguer-order-app
-Application for study .net core - MVC/API
-=======
 # 🍔 Burger Order App 🍔
 Application for study
 
@@ -17,4 +14,3 @@ Application for study
 
 # Contributors
 - Danilo Caetano [ @geeklopz ](https://github.com/geeklopz)
->>>>>>> Update README.md
