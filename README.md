@@ -1,4 +1,3 @@
-<<<<<<< ce2af734c3b0ee2e96cb9f39ce7eb377888e2c96
 # burguer-order-app
 Application for study .net core - MVC/API
 =======
